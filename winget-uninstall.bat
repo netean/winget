@@ -7,4 +7,5 @@ winget uninstall 7zip
 winget uninstall peazip  	
 winget uninstall powertoys	 
 winget uninstall rustdesk  		 
-winget uninstall anydesk.anydesk  		  
+winget uninstall anydesk.anydesk  
+winget uninstall notion	  
