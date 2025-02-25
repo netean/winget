@@ -25,8 +25,9 @@ winget uninstall -e --id PuTTY.PuTTY
 winget uninstall -e  Helm.Helm
 
 
-::## Azure cli
+::## Azure
 winget uninstall -e --id Microsoft.AzureCLI
+winget uninstall -e --id Microsoft.Azure.StorageExplorer
 
 ::## Docker Desktop
 winget uninstall -e --id Docker.DockerDesktop
