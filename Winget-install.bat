@@ -1,6 +1,6 @@
 
-## Run as admin
-## 
+::## Run as admin
+::## 
 
 
 winget install slack  		        --accept-package-agreements --accept-source-agreements --source=msstore

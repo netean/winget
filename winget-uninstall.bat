@@ -1,5 +1,5 @@
 
-## Run as admin
+::## Run as admin
 
 winget uninstall slack  		 
 winget uninstall clickup  	  
