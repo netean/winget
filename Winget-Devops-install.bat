@@ -32,6 +32,9 @@ winget install -e --id Microsoft.AzureCLI
 winget install -e --id Docker.DockerDesktop
 
 
+::## Terraform
+winget install -e --id Hashicorp.Terraform
+
 
 ::### ==========================
 ::## optional, uncomment to run
