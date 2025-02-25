@@ -28,6 +28,7 @@ winget uninstall -e  Helm.Helm
 ::## Azure
 winget uninstall -e --id Microsoft.AzureCLI
 winget uninstall -e --id Microsoft.Azure.StorageExplorer
+winget uninstall -e --id Microsoft.Azure.AZCopy.10
 
 ::## Docker Desktop
 winget uninstall -e --id Docker.DockerDesktop
