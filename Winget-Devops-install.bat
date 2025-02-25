@@ -25,8 +25,9 @@ winget install -e --id PuTTY.PuTTY
 winget install Helm.Helm
 
 
-::## Azure cli
+::## Azure 
 winget install -e --id Microsoft.AzureCLI
+winget install -e --id Microsoft.Azure.StorageExplorer
 
 ::## Docker Desktop
 winget install -e --id Docker.DockerDesktop
