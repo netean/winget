@@ -22,7 +22,7 @@ winget uninstall -e --id WinMerge.WinMerge
 winget uninstall -e --id PuTTY.PuTTY
 
 ::## Helm for Kubernetes
-winget uninstall Helm.Helm
+winget uninstall -e  Helm.Helm
 
 
 ::## Azure cli
@@ -30,6 +30,9 @@ winget uninstall -e --id Microsoft.AzureCLI
 
 ::## Docker Desktop
 winget uninstall -e --id Docker.DockerDesktop
+
+::## Terraform
+winget uninstall -e --id Hashicorp.Terraform
 
 
 
