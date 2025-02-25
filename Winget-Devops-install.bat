@@ -28,6 +28,7 @@ winget install Helm.Helm
 ::## Azure 
 winget install -e --id Microsoft.AzureCLI
 winget install -e --id Microsoft.Azure.StorageExplorer
+winget install -e --id Microsoft.Azure.AZCopy.10
 
 ::## Docker Desktop
 winget install -e --id Docker.DockerDesktop
