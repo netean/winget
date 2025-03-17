@@ -37,3 +37,9 @@ Additional Devops Tools (so far)
 * Terraform
 * Azure Storage Explorer
 * Azcopy
+
+
+ToDO
+download and install 
+EasyInventory
+BitDefender
