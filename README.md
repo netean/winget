@@ -39,7 +39,8 @@ Additional Devops Tools (so far)
 * Azcopy
 
 
-ToDO
+ToDo
+-----
 download and install 
-EasyInventory
-BitDefender
+* EasyInventory
+* BitDefender
