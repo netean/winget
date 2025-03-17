@@ -16,3 +16,6 @@ winget install ONLYOFFICE.DesktopEditors		--accept-package-agreements --accept-s
 winget install zoom		            --accept-package-agreements --accept-source-agreements --source=msstore
 winget install paint.net  	      --accept-package-agreements --accept-source-agreements --source=winget
 winget install Google.CredentialProviderForWindows  --accept-package-agreements --accept-source-agreements --source=winget
+
+;;## Upgrade all packages 
+winget upgrade --all
